@@ -1,2 +1,2 @@
-# bracelet-health-app
-Mobile app for smart bracelet health monitoring
+# AppSuiviMedical
+Application mobile intelligente pour le suivi de la sante via un bracelet connecte
